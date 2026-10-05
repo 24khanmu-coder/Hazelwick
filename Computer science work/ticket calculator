@@ -1,0 +1,8 @@
+tq = int(input("Enter an amount:" ))
+P = Int(input("enter a price " ))
+
+booking fee = int(3)
+
+t = tq * P + booking fee
+
+print("your total is "+" " + "£"t )

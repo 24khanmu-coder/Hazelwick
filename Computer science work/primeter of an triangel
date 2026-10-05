@@ -1,0 +1,4 @@
+l = float(input("enter a rectangle length:  "))
+w = float(input("enter a rectangle width :  "))
+a = l*w
+print("the area is " + " " + str(a))

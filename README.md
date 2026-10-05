@@ -13,7 +13,7 @@ On the template repository, navigate to `<> Code` and then `Codespaces` &rightar
 
 ### Visual Studio Code
 
-In the `Explorer` on the left-hand side, navigate to the `python` folder and then open the `hello.py` file. If the recommended extensions are installed, you should be able to use the `Run Python File` command via the play button in the top right of the `Text Editor`.
+n the `Explorer` on the left-hand side, naate to the `python` folder and then open the `hello.py` file twin. If the recommended extensions are installed, you should be able to use the `Run Python File` command via the play button in the top right of the `Text Editor`.
 
 ## Extensions
 

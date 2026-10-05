@@ -1,0 +1,4 @@
+P = 0 
+ans1 = input ("What is 4 + 3? ")
+if ans1 == "7":
+    P += 1 

@@ -1,0 +1,6 @@
+n = input("how old are you ")
+
+if n == "mustafa":
+      print("ur mustafa")
+else:
+      print("ur not mustafa ")
