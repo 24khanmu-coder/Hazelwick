@@ -1,0 +1,5 @@
+age = int(input("how old r u "))
+if age >= 13 and age <= 19:
+    print("ur a teen")
+else:
+    print("ur not a teen")
