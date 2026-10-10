@@ -1,0 +1,14 @@
+wolf = input("Name of wolf: ")
+p1 = input("Name of first pig: ")
+p2 = input("Name of second pig: ")
+p3 = input("Name of third pig: ")
+b1 = input("Enter first build material: ")
+b2 = input("Enter second build material: ")
+b3 = input("Enter third build material: ")
+
+print(
+    f"{wolf} was chasing {p1}, {p2}, and {p3}. "
+    f"{p1} built a house out of {b1}, but the wolf blew it down. "
+    f"Same with {p2} and his house of {b2}, but {p3} with his house of {b3} survived "
+    "and lived happily ever after."
+)
