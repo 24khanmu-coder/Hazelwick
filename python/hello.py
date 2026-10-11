@@ -1,4 +1,4 @@
-n = int(input("enter a number"))
-nj = int(input("enter a number"))
-result = n - nj
-print("the result is "+ " " + str(result))
+name = input("enter your name")
+age = int(input("enter your age"))
+user_name =name+str(age)
+print(f"your user name is {user_name}")

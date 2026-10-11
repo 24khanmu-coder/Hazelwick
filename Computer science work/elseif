@@ -1,6 +1,6 @@
-n = input("how old are you ")
+n = int(input("how old are you "))
 
-if n == "mustafa":
-      print("ur mustafa")
+if n >= 17:
+      print("u can drive a car")
 else:
-      print("ur not mustafa ")
+      print("u cannot drive a car ")

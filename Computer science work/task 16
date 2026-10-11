@@ -1,0 +1,4 @@
+height = int(input("a height for your triangle"))
+base_length = int(input("a base lenght for your triangle"))
+area = .5 *height*base_length
+print("the area of your triangle is " + " " + str(area))

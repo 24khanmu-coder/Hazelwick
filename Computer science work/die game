@@ -1,3 +1,4 @@
 import random
 
-print ("")
+num = random.randint(1,6)
+print("u rolled " ,num )

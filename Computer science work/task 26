@@ -1,0 +1,9 @@
+n1 = int(input("eneter a number"))
+n2 = int(input("eneter anthether number"))
+if n1>n2:
+    print("ur first number is greater than the second")
+elif n1<n2:
+    print("ur first number is less than the second")
+else:
+    print("they are equal ")
+
