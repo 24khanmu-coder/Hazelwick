@@ -1,0 +1,9 @@
+t = int(input("enter temp in celsius"))
+if t == 0:
+    print("it is freezing")
+elif t >0 and t<20:
+    print("it is cold")
+elif t>20 and t <30:
+    print("it is warm")
+elif t>30:
+    print("it is hot")
