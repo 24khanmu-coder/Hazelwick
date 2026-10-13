@@ -1,0 +1,12 @@
+import random
+num = random.randint(1,100)
+guess = print("guess what ur number is ")
+match guess:
+    case _ if guess == num:
+        print("bang on")
+    case _ if guess >= num - 5 and guess >= num + 5:
+        print("close")
+    case _ if guess < num - 5 and guess >= num - 10  and guess > num + 5 and guess <= num + 10:
+        print("okay")
+    case _:
+        print("way off")

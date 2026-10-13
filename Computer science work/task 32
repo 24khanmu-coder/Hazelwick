@@ -1,0 +1,10 @@
+n = int(input("enter your number"))
+match n:
+    case _ if n % 3 == 0:
+        print("ur number is divisible by 3")
+    case _ if n % 5 == 0:
+        print("ur number is divisible by 5")
+    case _ if n % 7 == 0:
+        print("ur number is divisible by 7")
+    case _:
+        print("ür number is not divisible by any of these numbers ")
