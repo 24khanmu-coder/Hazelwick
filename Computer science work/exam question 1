@@ -1,0 +1,9 @@
+for eight:
+height = int(input("enter the height of the rider "))
+if height >= 140:
+    print("enjoy the ride")
+elif height < 140 and height >= 120:
+   adult = print("do you have an an adult with you")
+if adult == "yes":
+    print()
+
