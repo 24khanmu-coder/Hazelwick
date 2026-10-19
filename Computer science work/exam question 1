@@ -7,7 +7,7 @@ while riders < 8:
             riders += 1
     elif height < 140 and height >= 120:
         adult = input("do you have an adult with you?")
-    if adult == "yes":
+        if adult == "yes":
             print("enjoy the ride")
     else :
             print("you canot use the ride")

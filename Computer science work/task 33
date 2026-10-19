@@ -1,4 +1,5 @@
 import random
+for 10:
 num = random.randint(1,100)
 guess = print("guess what ur number is ")
 match guess:

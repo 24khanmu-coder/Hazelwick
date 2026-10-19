@@ -1,0 +1,3 @@
+hours_parked = int(input("enter the number of hours parked: "))
+while hours_parked > 0:
+    typeofcar = input("is your car electric or petrol? ")

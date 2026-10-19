@@ -1,0 +1,7 @@
+total = 0
+
+while total < 100:
+    number = float(input("Enter a number: "))
+    total = total + number
+
+print(f"total = {total}")
