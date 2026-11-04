@@ -1,0 +1,7 @@
+total = 0
+while True:
+    number_to_add = int(input("enter a number"))
+    total += number_to_add
+    if total > 100:
+        break
+print("you have crossed 100")
